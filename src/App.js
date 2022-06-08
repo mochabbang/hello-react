@@ -1,9 +1,8 @@
-import Counter from "./Counter";
-import MyComponent from "./MyComponent";
+import EventPratice from "./EventPractice";
 
 
 const App = () => {
-  return <Counter />
+  return <EventPratice />
 }
 
 
